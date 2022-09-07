@@ -4,7 +4,7 @@ This Portfolio is a small project using HTML / CSS and Bootstrap. I will be usin
 [Live Heroku Deployment](https://new-portfolio-sydnei.herokuapp.com/)
 
 
- <img width="1080" alt="image" src="">
+ <img width="1080" alt="image" src="https://github.com/sydneiL/portfolio-one/blob/main/portfolio%20images/My%20Portfolio.png">
 
 ## Technologies used
 
